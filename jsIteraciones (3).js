@@ -1,7 +1,7 @@
 function mostrar()
 {
     var clave = prompt("Ingrese el número clave.");
-    var contador;
+    var contador = 0;
 
     while(clave |= "utn750"){
         if(contador<3){
